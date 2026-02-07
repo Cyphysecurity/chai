@@ -1,7 +1,7 @@
 # CHAI
 
 This repository implements the code for the paper:
-> **Structured Command Hijacking against Embodied Artificial Intelligence with Text-based Controls**
+> **CHAI: Command Hijacking against embodied AI**
 >
 > Luis Burbano, Diego Ortiz, Qi Sun, Siwei Yang, Haoqin Tu, Cihang Xie, Yinzhi Cao, Alvaro A Cardenas
 >
