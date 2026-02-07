@@ -9,7 +9,7 @@ This repository implements the code for the paper:
 
 ## CloudTrack
 
-This branch implements the attack against [CloudTrack](https://github.com/yblei/CloudTrack). To run this experiment, please see the install CloudTrack by following CloudTrack instructions.
+This branch implements the attack against [CloudTrack](https://github.com/yblei/CloudTrack). To run this experiment, please see the install CloudTrack by following the instructions.
 
 
 The command to run the experiments,
