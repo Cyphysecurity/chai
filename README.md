@@ -23,6 +23,7 @@ By default, the code runs the optimization. For testing you can add the option `
 
 Explanation for different branches:
 |Branch| Explanation|
+|--|--|
 |[main](https://github.com/Cyphysecurity/chai)|Implements CHAI attacks against CloudTrack|
 |[drivelm](https://github.com/Cyphysecurity/chai/tree/drivelm)|Implements CHAI attacks against DriveLM|
 |[landing](https://github.com/Cyphysecurity/chai/tree/landing)|Implements CHAI attacks against the emergency drone landing|
