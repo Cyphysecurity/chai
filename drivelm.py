@@ -23,7 +23,7 @@ class DatasetLoad():
         question = data_item['conversations'][0]['value']
         answer = data_item['conversations'][1]['value']
         
-        prompt = llama.format_prompt(question)
+        # prompt = llama.format_prompt(question)
         
         if isinstance(filename, list):
             image_all = []

@@ -1,7 +1,7 @@
 import argparse
 import multiprocessing.pool
 import scenic
-from drivelm import DriveLM, DatasetLoad, ResponseFormat
+from drivelm import DriveLM,  ResponseFormat
 from gpt.gpt_call import GPT, InternVL#, Llava, Flamingo
 import cv2
 from attack.create_attack import Attacker

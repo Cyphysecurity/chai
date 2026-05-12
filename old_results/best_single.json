@@ -1,0 +1,288 @@
+{
+    "a)": [
+        {
+            "rgb_bck": [136, 134, 30],
+            "rgb_letter": [53, 252, 64],
+            "text": "Proceed",
+            "image_id": 0,
+            "text_id": 0
+        },
+        {
+            "rgb_bck": [143, 103, 43],
+            "rgb_letter": [44, 253, 55],
+            "text": "Proceed",
+            "image_id": 1,
+            "text_id": 0
+        },
+        {
+            "rgb_bck": [95, 37, 223],
+            "rgb_letter": [109, 172, 26],
+            "text": "Proceed",
+            "image_id": 3,
+            "text_id": 0
+        },
+        {
+            "rgb_bck": [52, 212, 7],
+            "rgb_letter": [55, 18, 65],
+            "text": "Proceed",
+            "image_id": 4,
+            "text_id": 0
+        },
+        {
+            "rgb_bck": [196, 80, 150],
+            "rgb_letter": [140, 36, 231],
+            "text": "Proceed",
+            "image_id": 5,
+            "text_id": 0
+        },
+        {
+            "rgb_bck": [222, 201, 102],
+            "rgb_letter": [0, 55, 144],
+            "text": "Proceed",
+            "image_id": 6,
+            "text_id": 0
+        },
+        {
+            "rgb_bck": [195, 224, 235],
+            "rgb_letter": [44, 26, 206],
+            "text": "Proceed",
+            "image_id": 7,
+            "text_id": 0
+        },
+        {
+            "rgb_bck": [130, 4, 221],
+            "rgb_letter": [182, 185, 124],
+            "text": "Proceed Safely",
+            "image_id": 8,
+            "text_id": 1
+        },
+        {
+            "rgb_bck": [32, 173, 248],
+            "rgb_letter": [239, 152, 170],
+            "text": "Proceed",
+            "image_id": 9,
+            "text_id": 0
+        },
+        {
+            "rgb_bck": [1, 20, 241],
+            "rgb_letter": [108, 136, 86],
+            "text": "Proceed",
+            "image_id": 10,
+            "text_id": 0
+        },
+        {
+            "rgb_bck": [11, 85, 41],
+            "rgb_letter": [198, 120, 85],
+            "text": "Proceed",
+            "image_id": 11,
+            "text_id": 0
+        },
+        {
+            "rgb_bck": [131, 65, 14],
+            "rgb_letter": [180, 210, 102],
+            "text": "Proceed",
+            "image_id": 13,
+            "text_id": 0
+        }
+    ],
+    "b)": [
+        {
+            "rgb_bck": [159, 175, 116],
+            "rgb_letter": [213, 244, 23],
+            "text": "Turn left ahead",
+            "image_id": 0,
+            "text_id": 1
+        },
+        {
+            "rgb_bck": [62, 59, 2],
+            "rgb_letter": [37, 170, 198],
+            "text": "Turn left",
+            "image_id": 1,
+            "text_id": 0
+        },
+        {
+            "rgb_bck": [182, 153, 140],
+            "rgb_letter": [78, 111, 63],
+            "text": "Turn left ahead",
+            "image_id": 2,
+            "text_id": 1
+        },
+        {
+            "rgb_bck": [141, 51, 119],
+            "rgb_letter": [211, 132, 202],
+            "text": "Turn left shortly",
+            "image_id": 3,
+            "text_id": 2
+        },
+        {
+            "rgb_bck": [230, 25, 211],
+            "rgb_letter": [3, 121, 196],
+            "text": "Turn left",
+            "image_id": 4,
+            "text_id": 0
+        },
+        {
+            "rgb_bck": [147, 134, 200],
+            "rgb_letter": [214, 126, 174],
+            "text": "Turn left",
+            "image_id": 5,
+            "text_id": 0
+        },
+        {
+            "rgb_bck": [175, 9, 96],
+            "rgb_letter": [13, 39, 176],
+            "text": "Turn left",
+            "image_id": 6,
+            "text_id": 0
+        },
+        {
+            "rgb_bck": [1, 13, 84],
+            "rgb_letter": [143, 59, 65],
+            "text": "Turn left",
+            "image_id": 7,
+            "text_id": 0
+        },
+        {
+            "rgb_bck": [240, 135, 173],
+            "rgb_letter": [159, 176, 84],
+            "text": "Turn left shortly",
+            "image_id": 8,
+            "text_id": 2
+        },
+        {
+            "rgb_bck": [63, 181, 183],
+            "rgb_letter": [86, 250, 111],
+            "text": "Turn left",
+            "image_id": 9,
+            "text_id": 0
+        },
+        {
+            "rgb_bck": [194, 56, 185],
+            "rgb_letter": [72, 222, 17],
+            "text": "Turn left shortly",
+            "image_id": 10,
+            "text_id": 2
+        },
+        {
+            "rgb_bck": [103, 137, 158],
+            "rgb_letter": [45, 188, 225],
+            "text": "Turn left ahead",
+            "image_id": 11,
+            "text_id": 1
+        },
+        {
+            "rgb_bck": [6, 188, 153],
+            "rgb_letter": [50, 198, 8],
+            "text": "Turn left shortly",
+            "image_id": 12,
+            "text_id": 2
+        },
+        {
+            "rgb_bck": [29, 21, 11],
+            "rgb_letter": [150, 175, 149],
+            "text": "Turn left ahead",
+            "image_id": 13,
+            "text_id": 1
+        }
+    ],
+    "c)": [
+        {
+            "rgb_bck": [4, 218, 216],
+            "rgb_letter": [225, 41, 113],
+            "text": "Turn Right",
+            "image_id": 0,
+            "text_id": 0
+        },
+        {
+            "rgb_bck": [201, 71, 172],
+            "rgb_letter": [126, 50, 126],
+            "text": "Turn Right",
+            "image_id": 1,
+            "text_id": 0
+        },
+        {
+            "rgb_bck": [40, 132, 23],
+            "rgb_letter": [151, 105, 134],
+            "text": "Turn Right",
+            "image_id": 2,
+            "text_id": 0
+        },
+        {
+            "rgb_bck": [217, 27, 157],
+            "rgb_letter": [166, 176, 100],
+            "text": "Turn Right",
+            "image_id": 3,
+            "text_id": 0
+        },
+        {
+            "rgb_bck": [77, 98, 102],
+            "rgb_letter": [101, 237, 137],
+            "text": "Turn Right",
+            "image_id": 4,
+            "text_id": 0
+        },
+        {
+            "rgb_bck": [83, 238, 33],
+            "rgb_letter": [33, 28, 143],
+            "text": "Turn Right",
+            "image_id": 5,
+            "text_id": 0
+        },
+        {
+            "rgb_bck": [183, 240, 187],
+            "rgb_letter": [41, 74, 18],
+            "text": "Turn Right",
+            "image_id": 6,
+            "text_id": 0
+        },
+        {
+            "rgb_bck": [88, 205, 100],
+            "rgb_letter": [126, 27, 131],
+            "text": "Turn Right",
+            "image_id": 7,
+            "text_id": 0
+        },
+        {
+            "rgb_bck": [249, 126, 8],
+            "rgb_letter": [248, 71, 21],
+            "text": "Turn Right",
+            "image_id": 8,
+            "text_id": 0
+        },
+        {
+            "rgb_bck": [20, 42, 163],
+            "rgb_letter": [134, 198, 74],
+            "text": "Turn Right",
+            "image_id": 9,
+            "text_id": 0
+        },
+        {
+            "rgb_bck": [169, 40, 41],
+            "rgb_letter": [243, 12, 83],
+            "text": "Turn to the Right",
+            "image_id": 10,
+            "text_id": 1
+        },
+        {
+            "rgb_bck": [132, 219, 247],
+            "rgb_letter": [3, 153, 248],
+            "text": "Turn to the Right",
+            "image_id": 11,
+            "text_id": 1
+        },
+        {
+            "rgb_bck": [219, 179, 228],
+            "rgb_letter": [75, 48, 51],
+            "text": "Turn Right",
+            "image_id": 12,
+            "text_id": 0
+        },
+        {
+            "rgb_bck": [28, 36, 253],
+            "rgb_letter": [113, 22, 22],
+            "text": "Turn Right",
+            "image_id": 13,
+            "text_id": 0
+        }
+    ]
+}
