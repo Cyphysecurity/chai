@@ -1,0 +1,12 @@
+my-k-api.txt
+data/
+attacks/
+.vscode/
+__pycache__/
+weights/
+out/
+./data
+./attacks
+./.vscode
+*.txt
+./old_results

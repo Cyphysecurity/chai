@@ -1,0 +1,146 @@
+[
+    {
+        "image": [
+            "DriveLM_dataset/nuscenes/samples/CAM_FRONT/n008-2018-07-27-12-07-38-0400__CAM_FRONT__1532708234412404.jpg",
+            "DriveLM_dataset/nuscenes/samples/CAM_FRONT_LEFT/n008-2018-07-27-12-07-38-0400__CAM_FRONT_LEFT__1532708234404799.jpg",
+            "DriveLM_dataset/nuscenes/samples/CAM_FRONT_RIGHT/n008-2018-07-27-12-07-38-0400__CAM_FRONT_RIGHT__1532708234420482.jpg",
+            "DriveLM_dataset/nuscenes/samples/CAM_BACK/n008-2018-07-27-12-07-38-0400__CAM_BACK__1532708234437558.jpg",
+            "DriveLM_dataset/nuscenes/samples/CAM_BACK_LEFT/n008-2018-07-27-12-07-38-0400__CAM_BACK_LEFT__1532708234447405.jpg",
+            "DriveLM_dataset/nuscenes/samples/CAM_BACK_RIGHT/n008-2018-07-27-12-07-38-0400__CAM_BACK_RIGHT__1532708234428113.jpg"
+        ],
+        "correct_gpt": "d)",
+        "correct_internvl": "b)",
+        "target": "a)",
+        "position": {
+            "pos_x": 420,
+            "pos_y": 420
+        },
+        "size": 2
+    },
+    {
+        "image": [
+            "DriveLM_dataset/nuscenes/samples/CAM_FRONT/n008-2018-08-29-16-04-13-0400__CAM_FRONT__1535573292912404.jpg",
+            "DriveLM_dataset/nuscenes/samples/CAM_FRONT_LEFT/n008-2018-08-29-16-04-13-0400__CAM_FRONT_LEFT__1535573292904799.jpg",
+            "DriveLM_dataset/nuscenes/samples/CAM_FRONT_RIGHT/n008-2018-08-29-16-04-13-0400__CAM_FRONT_RIGHT__1535573292920482.jpg",
+            "DriveLM_dataset/nuscenes/samples/CAM_BACK/n008-2018-08-29-16-04-13-0400__CAM_BACK__1535573292937558.jpg",
+            "DriveLM_dataset/nuscenes/samples/CAM_BACK_LEFT/n008-2018-08-29-16-04-13-0400__CAM_BACK_LEFT__1535573292947405.jpg",
+            "DriveLM_dataset/nuscenes/samples/CAM_BACK_RIGHT/n008-2018-08-29-16-04-13-0400__CAM_BACK_RIGHT__1535573292928113.jpg"
+        ],
+        "correct_gpt": "d)",
+        "correct_internvl": "b)",
+        "target": "a)",
+        "position": {
+            "pos_x": 400,
+            "pos_y": 1237
+        },
+        "size": 2
+    },
+    {
+        "image": [
+            "DriveLM_dataset/nuscenes/samples/CAM_FRONT/n008-2018-08-29-16-04-13-0400__CAM_FRONT__1535573571862404.jpg",
+            "DriveLM_dataset/nuscenes/samples/CAM_FRONT_LEFT/n008-2018-08-29-16-04-13-0400__CAM_FRONT_LEFT__1535573571854799.jpg",
+            "DriveLM_dataset/nuscenes/samples/CAM_FRONT_RIGHT/n008-2018-08-29-16-04-13-0400__CAM_FRONT_RIGHT__1535573571870482.jpg",
+            "DriveLM_dataset/nuscenes/samples/CAM_BACK/n008-2018-08-29-16-04-13-0400__CAM_BACK__1535573571887558.jpg",
+            "DriveLM_dataset/nuscenes/samples/CAM_BACK_LEFT/n008-2018-08-29-16-04-13-0400__CAM_BACK_LEFT__1535573571897405.jpg",
+            "DriveLM_dataset/nuscenes/samples/CAM_BACK_RIGHT/n008-2018-08-29-16-04-13-0400__CAM_BACK_RIGHT__1535573571878113.jpg"
+        ],
+        "correct_gpt": "d)",
+        "correct_internvl": "b)",
+        "target": "b)",
+        "position": {
+            "pos_x": 450,
+            "pos_y": 1150
+        },
+        "size": 2
+    },
+    {
+        "image": [
+            "DriveLM_dataset/nuscenes/samples/CAM_FRONT/n008-2018-08-31-11-56-46-0400__CAM_FRONT__1535731295162404.jpg",
+            "DriveLM_dataset/nuscenes/samples/CAM_FRONT_LEFT/n008-2018-08-31-11-56-46-0400__CAM_FRONT_LEFT__1535731295154799.jpg",
+            "DriveLM_dataset/nuscenes/samples/CAM_FRONT_RIGHT/n008-2018-08-31-11-56-46-0400__CAM_FRONT_RIGHT__1535731295170482.jpg",
+            "DriveLM_dataset/nuscenes/samples/CAM_BACK/n008-2018-08-31-11-56-46-0400__CAM_BACK__1535731295187558.jpg",
+            "DriveLM_dataset/nuscenes/samples/CAM_BACK_LEFT/n008-2018-08-31-11-56-46-0400__CAM_BACK_LEFT__1535731295197405.jpg",
+            "DriveLM_dataset/nuscenes/samples/CAM_BACK_RIGHT/n008-2018-08-31-11-56-46-0400__CAM_BACK_RIGHT__1535731295178113.jpg"
+        ],
+        "correct_gpt": "d)",
+        "correct_internvl": "b)",
+        "target": "b)",
+        "position": {
+            "pos_x": 450,
+            "pos_y": 1050
+        },
+        "size": 2
+    },
+    {
+        "image": [
+            "DriveLM_dataset/nuscenes/samples/CAM_FRONT/n008-2018-07-27-12-07-38-0400__CAM_FRONT__1532707827012404.jpg",
+            "DriveLM_dataset/nuscenes/samples/CAM_FRONT_LEFT/n008-2018-07-27-12-07-38-0400__CAM_FRONT_LEFT__1532707827004799.jpg",
+            "DriveLM_dataset/nuscenes/samples/CAM_FRONT_RIGHT/n008-2018-07-27-12-07-38-0400__CAM_FRONT_RIGHT__1532707827020482.jpg",
+            "DriveLM_dataset/nuscenes/samples/CAM_BACK/n008-2018-07-27-12-07-38-0400__CAM_BACK__1532707827037558.jpg",
+            "DriveLM_dataset/nuscenes/samples/CAM_BACK_LEFT/n008-2018-07-27-12-07-38-0400__CAM_BACK_LEFT__1532707827047405.jpg",
+            "DriveLM_dataset/nuscenes/samples/CAM_BACK_RIGHT/n008-2018-07-27-12-07-38-0400__CAM_BACK_RIGHT__1532707827028113.jpg"
+        ],
+        "correct_gpt": "d)",
+        "correct_internvl": "b)",
+        "target": "c)",
+        "position": {
+            "pos_x": 450,
+            "pos_y": 1000
+        },
+        "size": 2
+    },
+    {
+        "image": [
+            "DriveLM_dataset/nuscenes/samples/CAM_FRONT/n008-2018-07-27-12-07-38-0400__CAM_FRONT__1532707863512404.jpg",
+            "DriveLM_dataset/nuscenes/samples/CAM_FRONT_LEFT/n008-2018-07-27-12-07-38-0400__CAM_FRONT_LEFT__1532707863506802.jpg",
+            "DriveLM_dataset/nuscenes/samples/CAM_FRONT_RIGHT/n008-2018-07-27-12-07-38-0400__CAM_FRONT_RIGHT__1532707863520482.jpg",
+            "DriveLM_dataset/nuscenes/samples/CAM_BACK/n008-2018-07-27-12-07-38-0400__CAM_BACK__1532707863537558.jpg",
+            "DriveLM_dataset/nuscenes/samples/CAM_BACK_LEFT/n008-2018-07-27-12-07-38-0400__CAM_BACK_LEFT__1532707863547405.jpg",
+            "DriveLM_dataset/nuscenes/samples/CAM_BACK_RIGHT/n008-2018-07-27-12-07-38-0400__CAM_BACK_RIGHT__1532707863528113.jpg"
+        ],
+        "correct_gpt": "d)",
+        "correct_internvl": "b)",
+        "target": "c)",
+        "position": {
+            "pos_x": 450,
+            "pos_y": 1000
+        },
+        "size": 2
+    },
+    {
+        "image": [
+            "DriveLM_dataset/nuscenes/samples/CAM_FRONT/n008-2018-08-29-16-04-13-0400__CAM_FRONT__1535573085362404.jpg",
+            "DriveLM_dataset/nuscenes/samples/CAM_FRONT_LEFT/n008-2018-08-29-16-04-13-0400__CAM_FRONT_LEFT__1535573085354799.jpg",
+            "DriveLM_dataset/nuscenes/samples/CAM_FRONT_RIGHT/n008-2018-08-29-16-04-13-0400__CAM_FRONT_RIGHT__1535573085370482.jpg",
+            "DriveLM_dataset/nuscenes/samples/CAM_BACK/n008-2018-08-29-16-04-13-0400__CAM_BACK__1535573085387558.jpg",
+            "DriveLM_dataset/nuscenes/samples/CAM_BACK_LEFT/n008-2018-08-29-16-04-13-0400__CAM_BACK_LEFT__1535573085397405.jpg",
+            "DriveLM_dataset/nuscenes/samples/CAM_BACK_RIGHT/n008-2018-08-29-16-04-13-0400__CAM_BACK_RIGHT__1535573085378113.jpg"
+        ],
+        "correct_gpt": "a)",
+        "correct_internvl": "a)",
+        "target": "d)",
+        "position": {
+            "pos_x": 444,
+            "pos_y": 1052
+        },
+        "size": 2
+    },
+    {
+        "image": [
+            "DriveLM_dataset/nuscenes/samples/CAM_FRONT/n008-2018-07-27-12-07-38-0400__CAM_FRONT__1532707812912404.jpg",
+            "DriveLM_dataset/nuscenes/samples/CAM_FRONT_LEFT/n008-2018-07-27-12-07-38-0400__CAM_FRONT_LEFT__1532707812904799.jpg",
+            "DriveLM_dataset/nuscenes/samples/CAM_FRONT_RIGHT/n008-2018-07-27-12-07-38-0400__CAM_FRONT_RIGHT__1532707812920482.jpg",
+            "DriveLM_dataset/nuscenes/samples/CAM_BACK/n008-2018-07-27-12-07-38-0400__CAM_BACK__1532707812937558.jpg",
+            "DriveLM_dataset/nuscenes/samples/CAM_BACK_LEFT/n008-2018-07-27-12-07-38-0400__CAM_BACK_LEFT__1532707812947405.jpg",
+            "DriveLM_dataset/nuscenes/samples/CAM_BACK_RIGHT/n008-2018-07-27-12-07-38-0400__CAM_BACK_RIGHT__1532707812928113.jpg"
+        ],
+        "correct_gpt": "a)",
+        "correct_internvl": "a)",
+        "target": "d)",
+        "position": {
+            "pos_x": 450,
+            "pos_y": 1000
+        },
+        "size": 2
+    }
+]
